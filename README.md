@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunikapet-ai" alt="sandunikapet-ai" /></a> </p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=sandunikapet-ai&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![sandunikapet-ai github stats](https://github-readme-stats.vercel.app/api?username=sandunikapet-ai&show_icons=true&theme=tokyonight) | ![sandunikapet-ai GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandunikapet-ai&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
